@@ -18,7 +18,7 @@ This project explores the Knapsack Problem, a classic optimization problem in co
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/masoudigram/KnapsackProblem.git
    ```
 2. Open the Jupyter Notebook:
    ```bash
